@@ -1,0 +1,227 @@
+{
+  "version": "1",
+  "defaultLanguage": "en",
+  "defaultAvailabilityCountries": [
+    "us"
+  ],
+  "defaultAvailabilityPlatforms": [
+    "all"
+  ],
+  "assets": [
+    {
+      "id": "141",
+      "type": "series",
+      "titles": [
+        {
+          "value": "Killer Cases",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Killer Cases brings all the emotion, drama, and suspense from chilling murder trials.",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "longDescriptions": [
+        {
+          "value": "Killer Cases brings all the emotion, drama, and suspense from chilling murder trials.",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "genres": [
+        "crime",
+        "documentary"
+      ],
+      "images": [
+        {
+          "url": "https://lawcrime-vod.multitvsolution.com/multitv/source/5013_6a0c7e32de59f_1920x1080.jpg",
+          "type": "main",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "releaseDate": "2026-05-20",
+      "advisoryRatings": [
+        {
+          "value": "TV-14",
+          "source": "USA_PR"
+        }
+      ]
+    },
+    {
+      "id": "224916",
+      "type": "episode",
+      "titles": [
+        {
+          "value": "The School Teacher Murder",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Teacher and mom Kay Baker is found dying; police chase a wounded suspect through nearby woods.",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "longDescriptions": [
+        {
+          "value": "Killer Cases brings all the emotion, drama, and suspense from chilling murder trials.",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "genres": [
+        "crime",
+        "documentary"
+      ],
+      "images": [
+        {
+          "url": "https://lawcrime-vod.multitvsolution.com/multitv/source/5013_6a0c7e32de59f_1920x1080.jpg",
+          "type": "main",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "releaseDate": "2026-05-20",
+      "advisoryRatings": [
+        {
+          "value": "TV-14",
+          "source": "USA_PR"
+        }
+      ],
+      "content": {
+        "playOptions": [
+          {
+            "playId": "224916",
+            "license": "subscription",
+            "quality": "hd",
+            "availabilityInfo": {
+              "country": [
+                "us"
+              ]
+            },
+            "availabilityStartTimeStamp": 0
+          }
+        ]
+      },
+      "durationInSeconds": 2579,
+      "episodeInfo": {
+        "seriesId": "141",
+        "seasonNumber": 4,
+        "episodeNumber": 1
+      }
+    },
+    {
+      "id": "139",
+      "type": "series",
+      "titles": [
+        {
+          "value": "Most Outrageous Crimes",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Most Outrageous Crimes gives viewers the most shocking moments of criminals being caught in the act.",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "genres": [
+        "crime"
+      ],
+      "images": [
+        {
+          "url": "https://lawcrime-vod.multitvsolution.com/multitv/source/5013_695ca0e14c1aa_1920x1080.jpg",
+          "type": "main",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "releaseDate": "2025-12-14",
+      "advisoryRatings": [
+        {
+          "value": "TV-14",
+          "source": "USA_PR"
+        }
+      ]
+    },
+    {
+      "id": "213672",
+      "type": "episode",
+      "titles": [
+        {
+          "value": "Entitled Suspects",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Untouchable suspects square off with police.",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "genres": [
+        "crime"
+      ],
+      "images": [
+        {
+          "url": "https://lawcrime-vod.multitvsolution.com/multitv/source/69569e2f32f53_1920x1080.jpg",
+          "type": "main",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "releaseDate": "2025-12-14",
+      "advisoryRatings": [
+        {
+          "value": "TV-14",
+          "source": "USA_PR"
+        }
+      ],
+      "content": {
+        "playOptions": [
+          {
+            "playId": "213672",
+            "license": "subscription",
+            "quality": "hd",
+            "availabilityInfo": {
+              "country": [
+                "us"
+              ]
+            }
+          }
+        ]
+      },
+      "durationInSeconds": 2603,
+      "episodeInfo": {
+        "seriesId": "139",
+        "seasonNumber": 1,
+        "episodeNumber": 1
+      }
+    }
+  ]
+}
