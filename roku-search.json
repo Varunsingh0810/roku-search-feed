@@ -155,6 +155,66 @@
           "source": "USA_PR"
         }
       ]
+    },
+    {
+      "id": "213672",
+      "type": "episode",
+      "titles": [
+        {
+          "value": "Entitled Suspects",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Untouchable suspects square off with police.",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "genres": [
+        "crime"
+      ],
+      "images": [
+        {
+          "url": "https://lawcrime-vod.multitvsolution.com/multitv/source/69569e2f32f53_1920x1080.jpg",
+          "type": "main",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "releaseDate": "2025-12-14",
+      "advisoryRatings": [
+        {
+          "value": "TV-14",
+          "source": "USA_PR"
+        }
+      ],
+      "content": {
+        "playOptions": [
+          {
+            "playId": "213672",
+            "license": "subscription",
+            "quality": "hd",
+            "availabilityInfo": {
+              "country": [
+                "us"
+              ]
+            },
+            "availabilityStartTimeStamp": 0
+          }
+        ]
+      },
+      "durationInSeconds": 2603,
+      "episodeInfo": {
+        "seriesId": "139",
+        "seasonNumber": 1,
+        "episodeNumber": 1
+      }
     }
   ]
 }
