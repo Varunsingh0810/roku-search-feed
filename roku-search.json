@@ -178,22 +178,6 @@
       "genres": [
         "crime"
       ],
-      "images": [
-        {
-          "url": "https://lawcrime-vod.multitvsolution.com/multitv/source/69569e2f32f53_1920x1080.jpg",
-          "type": "main",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "releaseDate": "2025-12-14",
-      "advisoryRatings": [
-        {
-          "value": "TV-14",
-          "source": "USA_PR"
-        }
-      ],
       "content": {
         "playOptions": [
           {
@@ -214,7 +198,23 @@
         "seriesId": "139",
         "seasonNumber": 1,
         "episodeNumber": 1
-      }
+      },
+      "images": [
+        {
+          "url": "https://lawcrime-vod.multitvsolution.com/multitv/source/5013_69569e2c4c1e8.jpg",
+          "type": "main",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "releaseDate": "2025-12-14",
+      "advisoryRatings": [
+        {
+          "value": "TV-14",
+          "source": "USA_PR"
+        }
+      ]
     }
   ]
 }
