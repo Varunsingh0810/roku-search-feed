@@ -43,7 +43,7 @@
         }
       ],
       "genres": [
-        "crime"
+        "law"
       ],
       "releaseYear": 2026
     },
@@ -81,7 +81,10 @@
           "source": "USA_PR"
         }
       ],
-      "releaseYear": 2025
+      "releaseYear": 2025,
+      "genres": [
+        "law"
+      ]
     },
     {
       "id": "139",
@@ -118,7 +121,7 @@
         }
       ],
       "genres": [
-        "crime"
+        "law"
       ],
       "releaseYear": 2025
     },
@@ -157,7 +160,7 @@
         }
       ],
       "genres": [
-        "crime"
+        "law"
       ],
       "releaseYear": 2026
     },
@@ -196,7 +199,7 @@
         }
       ],
       "genres": [
-        "crime"
+        "law"
       ],
       "releaseYear": 2026
     },
@@ -235,7 +238,7 @@
         }
       ],
       "genres": [
-        "crime"
+        "law"
       ],
       "releaseYear": 2025
     },
@@ -274,7 +277,7 @@
         }
       ],
       "genres": [
-        "crime"
+        "law"
       ],
       "releaseYear": 2026
     },
@@ -313,7 +316,7 @@
         }
       ],
       "genres": [
-        "crime"
+        "law"
       ],
       "releaseYear": 2025
     },
@@ -352,7 +355,7 @@
         }
       ],
       "genres": [
-        "crime"
+        "law"
       ],
       "releaseYear": 2026
     },
@@ -391,7 +394,7 @@
         }
       ],
       "genres": [
-        "crime"
+        "law"
       ],
       "releaseYear": 2025
     },
