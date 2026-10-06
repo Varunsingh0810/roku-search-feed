@@ -527,7 +527,9 @@
         "episodeNumber": 1
       },
       "releaseDate": "2025-12-13",
-      "genres": []
+      "genres": [
+        "law"
+      ]
     },
     {
       "id": "213672",
