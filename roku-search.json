@@ -27,20 +27,15 @@
           ]
         }
       ],
-      "genres": [
-        "crime",
-        "documentary"
-      ],
       "images": [
         {
-          "url": "https://lawcrime-vod.multitvsolution.com/multitv/source/5013_6a0c7e32de59f_1920x1080.jpg",
+          "url": "https://lawcrime-vod.multitvsolution.com/multitv/source/5013_695ca090dfc0a_1920x1080.jpg",
           "type": "main",
           "languages": [
             "en"
           ]
         }
       ],
-      "releaseDate": "2026-05-20",
       "advisoryRatings": [
         {
           "value": "TV-14",
@@ -49,11 +44,11 @@
       ]
     },
     {
-      "id": "224916",
-      "type": "episode",
+      "id": "148",
+      "type": "series",
       "titles": [
         {
-          "value": "The School Teacher Murder",
+          "value": "Bodycam",
           "languages": [
             "en"
           ]
@@ -61,61 +56,27 @@
       ],
       "shortDescriptions": [
         {
-          "value": "Teacher and mom Kay Baker is found dying; police chase a wounded suspect through nearby woods.",
+          "value": "BodyCam takes you on patrol and in the line of duty with raw footage of high-stakes police encounters.",
           "languages": [
             "en"
           ]
         }
-      ],
-      "longDescriptions": [
-        {
-          "value": "Killer Cases brings all the emotion, drama, and suspense from chilling murder trials.",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "genres": [
-        "crime",
-        "documentary"
       ],
       "images": [
         {
-          "url": "https://lawcrime-vod.multitvsolution.com/multitv/source/5013_6a0c7e32de59f_1920x1080.jpg",
+          "url": "https://lawcrime-vod.multitvsolution.com/multitv/source/5013_695c9ddedfc28_1920x1080.jpg",
           "type": "main",
           "languages": [
             "en"
           ]
         }
       ],
-      "releaseDate": "2026-05-20",
       "advisoryRatings": [
         {
           "value": "TV-14",
           "source": "USA_PR"
         }
-      ],
-      "content": {
-        "playOptions": [
-          {
-            "playId": "224916",
-            "license": "subscription",
-            "quality": "hd",
-            "availabilityInfo": {
-              "country": [
-                "us"
-              ]
-            },
-            "availabilityStartTimeStamp": 0
-          }
-        ]
-      },
-      "durationInSeconds": 2579,
-      "episodeInfo": {
-        "seriesId": "141",
-        "seasonNumber": 4,
-        "episodeNumber": 1
-      }
+      ]
     },
     {
       "id": "139",
@@ -136,9 +97,6 @@
           ]
         }
       ],
-      "genres": [
-        "crime"
-      ],
       "images": [
         {
           "url": "https://lawcrime-vod.multitvsolution.com/multitv/source/5013_695ca0e14c1aa_1920x1080.jpg",
@@ -148,12 +106,389 @@
           ]
         }
       ],
-      "releaseDate": "2025-12-14",
       "advisoryRatings": [
         {
           "value": "TV-14",
           "source": "USA_PR"
         }
+      ]
+    },
+    {
+      "id": "153",
+      "type": "series",
+      "titles": [
+        {
+          "value": "Sidebar",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "From unexpected admissions of murder to unsettling rationale on the witness stand, criminal courtrooms in Florida, South Carolina, New York, and California have witnessed testimonies that completely upended high-profile trials. Law&Crime's Jesse Weber revisits these unforgettable, case-altering moments that left judges, juries, and spectators stunned.",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "url": "https://lawcrime-vod.multitvsolution.com/multitv/source/5013_6a96c96344a02_1920x1080.jpg",
+          "type": "main",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "value": "TV-14",
+          "source": "USA_PR"
+        }
+      ]
+    },
+    {
+      "id": "157",
+      "type": "series",
+      "titles": [
+        {
+          "value": "Investigates",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Lies. Coverups. Confessions. Law&Crime Investigates pulls back the curtain on real police case files to reveal the most gripping interrogations ever recorded.",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "url": "https://lawcrime-vod.multitvsolution.com/multitv/source/5013_69932635435e9_1920x1080.jpg",
+          "type": "main",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "value": "TV-14",
+          "source": "USA_PR"
+        }
+      ]
+    },
+    {
+      "id": "147",
+      "type": "series",
+      "titles": [
+        {
+          "value": "Interrogations",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Interrogations goes inside the station with compelling raw footage of real suspects being questioned about crimes.",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "url": "https://lawcrime-vod.multitvsolution.com/multitv/source/5013_695ca01631e91_1920x1080.jpg",
+          "type": "main",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "value": "TV-14",
+          "source": "USA_PR"
+        }
+      ]
+    },
+    {
+      "id": "142",
+      "type": "series",
+      "titles": [
+        {
+          "value": "Murder Uncut",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Murder Uncut takes viewers behind the scenes of investigations where body and surveillance cams are critical to cracking the case.",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "url": "https://lawcrime-vod.multitvsolution.com/multitv/source/5013_695ca1171bdcf_1920x1080.jpg",
+          "type": "main",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "value": "TV-14",
+          "source": "USA_PR"
+        }
+      ]
+    },
+    {
+      "id": "146",
+      "type": "series",
+      "titles": [
+        {
+          "value": "Police Pursuits",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Police Pursuits brings you real pursuits caught on camera. From high-speed chases, wild getaways, and epic takedowns - don't blink.",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "url": "https://lawcrime-vod.multitvsolution.com/multitv/source/5013_695ca1d0407b8_1920x1080.jpg",
+          "type": "main",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "value": "TV-14",
+          "source": "USA_PR"
+        }
+      ]
+    },
+    {
+      "id": "173",
+      "type": "series",
+      "titles": [
+        {
+          "value": "Vinnie Politan Investigates",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Christa Pike was set for execution when the lethal injections failed to end her life. Now Vinnie Politan investigates what happened inside the execution chamber and the brutal crime that landed Pike on death row. Court TV's Vinnie Politan Investigates.",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "url": "https://lawcrime-vod.multitvsolution.com/multitv/source/5013_6abe46caeb698_1920x1080.png",
+          "type": "main",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "value": "TV-14",
+          "source": "USA_PR"
+        }
+      ]
+    },
+    {
+      "id": "144",
+      "type": "series",
+      "titles": [
+        {
+          "value": "Cops Reloaded",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "COPS Reloaded showcases some of the most memorable suspects, car chases and action-packed moments from TV's popular reality program.",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "url": "https://lawcrime-vod.multitvsolution.com/multitv/source/5013_695c9ec8c1dce_1920x1080.jpg",
+          "type": "main",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "value": "TV-14",
+          "source": "USA_PR"
+        }
+      ]
+    },
+    {
+      "id": "213405",
+      "type": "episode",
+      "titles": [
+        {
+          "value": "The Doctor is Dead",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "The popular doctor, a rising social media star, found murdered in her own home.",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "longDescriptions": [
+        {
+          "value": "Killer Cases brings all the emotion, drama, and suspense from chilling murder trials.",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "url": "https://lawcrime-vod.multitvsolution.com/multitv/source/693f96b30909f_1920x1080.jpg",
+          "type": "main",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "value": "TV-14",
+          "source": "USA_PR"
+        }
+      ],
+      "content": {
+        "playOptions": [
+          {
+            "playId": "213405",
+            "license": "subscription",
+            "quality": "hd",
+            "availabilityInfo": {
+              "country": [
+                "us"
+              ]
+            },
+            "availabilityStartTimeStamp": 0
+          }
+        ]
+      },
+      "durationInSeconds": 2585,
+      "episodeInfo": {
+        "seriesId": "141",
+        "seasonNumber": 1,
+        "episodeNumber": 1
+      },
+      "releaseDate": "2026-09-10"
+    },
+    {
+      "id": "213592",
+      "type": "episode",
+      "titles": [
+        {
+          "value": "Police Chase",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Sweaty thieves stop at nothing to steal an air conditioner and flee from police.",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "longDescriptions": [
+        {
+          "value": "BodyCam takes you on patrol and in the line of duty with raw footage of high-stakes police encounters.",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "url": "https://lawcrime-vod.multitvsolution.com/multitv/source/69d688ff2891f_1920x1080.jpg",
+          "type": "main",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "value": "TV-14",
+          "source": "USA_PR"
+        }
+      ],
+      "content": {
+        "playOptions": [
+          {
+            "playId": "213592",
+            "license": "subscription",
+            "quality": "hd",
+            "availabilityInfo": {
+              "country": [
+                "us"
+              ]
+            },
+            "availabilityStartTimeStamp": 0
+          }
+        ]
+      },
+      "durationInSeconds": 2604,
+      "episodeInfo": {
+        "seriesId": "148",
+        "seasonNumber": 1,
+        "episodeNumber": 1
+      },
+      "releaseDate": "2025-12-13",
+      "genres": [
+        "Law&Crime"
       ]
     },
     {
@@ -175,8 +510,28 @@
           ]
         }
       ],
-      "genres": [
-        "crime"
+      "longDescriptions": [
+        {
+          "value": "Most Outrageous Crimes gives viewers the most shocking moments of criminals being caught in the act.",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "url": "https://lawcrime-vod.multitvsolution.com/multitv/source/69569e2f32f53_1920x1080.jpg",
+          "type": "main",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "value": "TV-14",
+          "source": "USA_PR"
+        }
       ],
       "content": {
         "playOptions": [
@@ -199,22 +554,446 @@
         "seasonNumber": 1,
         "episodeNumber": 1
       },
+      "releaseDate": "2025-12-14"
+    },
+    {
+      "id": "230576",
+      "type": "episode",
+      "titles": [
+        {
+          "value": "5 Chilling Courtroom 'Confessions'",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Courtroom Confessions",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
       "images": [
         {
-          "url": "https://lawcrime-vod.multitvsolution.com/multitv/source/5013_69569e2c4c1e8.jpg",
+          "url": "https://lawcrime-vod.multitvsolution.com/multitv/source/6abd203be8846_1920x1080.jpg",
           "type": "main",
           "languages": [
             "en"
           ]
         }
       ],
-      "releaseDate": "2025-12-14",
       "advisoryRatings": [
         {
           "value": "TV-14",
           "source": "USA_PR"
         }
-      ]
+      ],
+      "content": {
+        "playOptions": [
+          {
+            "playId": "230576",
+            "license": "subscription",
+            "quality": "hd",
+            "availabilityInfo": {
+              "country": [
+                "us"
+              ]
+            },
+            "availabilityStartTimeStamp": 0
+          }
+        ]
+      },
+      "durationInSeconds": 2133,
+      "episodeInfo": {
+        "seriesId": "153",
+        "seasonNumber": 202609,
+        "episodeNumber": 35
+      },
+      "releaseDate": "2026-09-30"
+    },
+    {
+      "id": "220289",
+      "type": "episode",
+      "titles": [
+        {
+          "value": "Secret in the Trash Can",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "A teen in the ER for back pain leaves a shocking secret at the bottom of the bathroom trash can.",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "longDescriptions": [
+        {
+          "value": "Lies. Coverups. Confessions. Law&Crime Investigates pulls back the curtain on real police case files to reveal the most gripping interrogations ever recorded.",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "url": "https://lawcrime-vod.multitvsolution.com/multitv/source/69b991554fbbb_1920x1080.jpg",
+          "type": "main",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "value": "TV-14",
+          "source": "USA_PR"
+        }
+      ],
+      "content": {
+        "playOptions": [
+          {
+            "playId": "220289",
+            "license": "subscription",
+            "quality": "hd",
+            "availabilityInfo": {
+              "country": [
+                "us"
+              ]
+            },
+            "availabilityStartTimeStamp": 0
+          }
+        ]
+      },
+      "durationInSeconds": 2580,
+      "episodeInfo": {
+        "seriesId": "157",
+        "seasonNumber": 1,
+        "episodeNumber": 1
+      },
+      "releaseDate": "2026-03-16"
+    },
+    {
+      "id": "213572",
+      "type": "episode",
+      "titles": [
+        {
+          "value": "Bad Brothers",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Brothers arrested following claims of drugging, attempting to kill parents.",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "longDescriptions": [
+        {
+          "value": "Interrogations goes inside the station with compelling raw footage of real suspects being questioned about crimes.",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "url": "https://lawcrime-vod.multitvsolution.com/multitv/source/693fd9a2e3b65_1920x1080.jpg",
+          "type": "main",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "value": "TV-14",
+          "source": "USA_PR"
+        }
+      ],
+      "content": {
+        "playOptions": [
+          {
+            "playId": "213572",
+            "license": "subscription",
+            "quality": "hd",
+            "availabilityInfo": {
+              "country": [
+                "us"
+              ]
+            },
+            "availabilityStartTimeStamp": 0
+          }
+        ]
+      },
+      "durationInSeconds": 2603,
+      "episodeInfo": {
+        "seriesId": "147",
+        "seasonNumber": 1,
+        "episodeNumber": 1
+      },
+      "releaseDate": "2025-12-12"
+    },
+    {
+      "id": "213459",
+      "type": "episode",
+      "titles": [
+        {
+          "value": "The Rogue Agent",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Texas police suspected a serial killer was on the loose when bodies of four women were foundÂ dumped by the side of Highway 101.",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "longDescriptions": [
+        {
+          "value": "Murder Uncut takes viewers behind the scenes of investigations where body and surveillance cams are critical to cracking the case.",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "url": "https://lawcrime-vod.multitvsolution.com/multitv/source/693fa0963d408_1920x1080.jpg",
+          "type": "main",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "value": "TV-14",
+          "source": "USA_PR"
+        }
+      ],
+      "content": {
+        "playOptions": [
+          {
+            "playId": "213459",
+            "license": "subscription",
+            "quality": "hd",
+            "availabilityInfo": {
+              "country": [
+                "us"
+              ]
+            },
+            "availabilityStartTimeStamp": 0
+          }
+        ]
+      },
+      "durationInSeconds": 2580,
+      "episodeInfo": {
+        "seriesId": "142",
+        "seasonNumber": 1,
+        "episodeNumber": 1
+      },
+      "releaseDate": "2026-09-24"
+    },
+    {
+      "id": "213562",
+      "type": "episode",
+      "titles": [
+        {
+          "value": "Backyard Blitz",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "A man on the run in Florida leads police on a wild car chase.",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "longDescriptions": [
+        {
+          "value": "Police Pursuits brings you real pursuits caught on camera. From high-speed chases, wild getaways, and epic takedowns - don't blink.",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "url": "https://lawcrime-vod.multitvsolution.com/multitv/source/693fd533331d8_1920x1080.jpg",
+          "type": "main",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "value": "TV-14",
+          "source": "USA_PR"
+        }
+      ],
+      "content": {
+        "playOptions": [
+          {
+            "playId": "213562",
+            "license": "subscription",
+            "quality": "hd",
+            "availabilityInfo": {
+              "country": [
+                "us"
+              ]
+            },
+            "availabilityStartTimeStamp": 0
+          }
+        ]
+      },
+      "durationInSeconds": 2603,
+      "episodeInfo": {
+        "seriesId": "146",
+        "seasonNumber": 1,
+        "episodeNumber": 1
+      },
+      "releaseDate": "2025-12-12"
+    },
+    {
+      "id": "230698",
+      "type": "episode",
+      "titles": [
+        {
+          "value": "Teen Murderer's Botched Execution Leaves Death Row Shocked!",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Christa Pike was set for execution when the lethal injections failed to end her life. Now Vinnie Politan investigates what happened inside the execution chamber and the brutal crime that landed Pike on death row. Court TV's Vinnie Politan Investigates.",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "url": "https://lawcrime-vod.multitvsolution.com/multitv/source/6ac3b27381492_1920x1080.jpg",
+          "type": "main",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "value": "TV-14",
+          "source": "USA_PR"
+        }
+      ],
+      "content": {
+        "playOptions": [
+          {
+            "playId": "230698",
+            "license": "subscription",
+            "quality": "hd",
+            "availabilityInfo": {
+              "country": [
+                "us"
+              ]
+            },
+            "availabilityStartTimeStamp": 0
+          }
+        ]
+      },
+      "durationInSeconds": 2805,
+      "episodeInfo": {
+        "seriesId": "173",
+        "seasonNumber": 202610,
+        "episodeNumber": 3
+      },
+      "releaseDate": "2026-10-05"
+    },
+    {
+      "id": "213474",
+      "type": "episode",
+      "titles": [
+        {
+          "value": "UC Gets Jacked",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Officers go undercover to catch an alleged dealer. A couple is almost hit by a car. A woman tries to hide evidence after evading the police. A road rage incident leads to assault.",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "longDescriptions": [
+        {
+          "value": "COPS Reloaded showcases some of the most memorable suspects, car chases and action-packed moments from TV's popular reality program.",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "url": "https://lawcrime-vod.multitvsolution.com/multitv/source/693fa92dc817c_1920x1080.jpg",
+          "type": "main",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "value": "TV-14",
+          "source": "USA_PR"
+        }
+      ],
+      "content": {
+        "playOptions": [
+          {
+            "playId": "213474",
+            "license": "subscription",
+            "quality": "hd",
+            "availabilityInfo": {
+              "country": [
+                "us"
+              ]
+            },
+            "availabilityStartTimeStamp": 0
+          }
+        ]
+      },
+      "durationInSeconds": 1205,
+      "episodeInfo": {
+        "seriesId": "144",
+        "seasonNumber": 1,
+        "episodeNumber": 1
+      },
+      "releaseDate": "2025-12-12"
     }
   ]
 }
