@@ -41,7 +41,11 @@
           "value": "TV-14",
           "source": "USA_PR"
         }
-      ]
+      ],
+      "genres": [
+        "crime"
+      ],
+      "releaseYear": 2026
     },
     {
       "id": "148",
@@ -76,7 +80,8 @@
           "value": "TV-14",
           "source": "USA_PR"
         }
-      ]
+      ],
+      "releaseYear": 2025
     },
     {
       "id": "139",
@@ -111,7 +116,11 @@
           "value": "TV-14",
           "source": "USA_PR"
         }
-      ]
+      ],
+      "genres": [
+        "crime"
+      ],
+      "releaseYear": 2025
     },
     {
       "id": "153",
@@ -146,7 +155,11 @@
           "value": "TV-14",
           "source": "USA_PR"
         }
-      ]
+      ],
+      "genres": [
+        "crime"
+      ],
+      "releaseYear": 2026
     },
     {
       "id": "157",
@@ -181,7 +194,11 @@
           "value": "TV-14",
           "source": "USA_PR"
         }
-      ]
+      ],
+      "genres": [
+        "crime"
+      ],
+      "releaseYear": 2026
     },
     {
       "id": "147",
@@ -216,7 +233,11 @@
           "value": "TV-14",
           "source": "USA_PR"
         }
-      ]
+      ],
+      "genres": [
+        "crime"
+      ],
+      "releaseYear": 2025
     },
     {
       "id": "142",
@@ -251,7 +272,11 @@
           "value": "TV-14",
           "source": "USA_PR"
         }
-      ]
+      ],
+      "genres": [
+        "crime"
+      ],
+      "releaseYear": 2026
     },
     {
       "id": "146",
@@ -286,7 +311,11 @@
           "value": "TV-14",
           "source": "USA_PR"
         }
-      ]
+      ],
+      "genres": [
+        "crime"
+      ],
+      "releaseYear": 2025
     },
     {
       "id": "173",
@@ -321,7 +350,11 @@
           "value": "TV-14",
           "source": "USA_PR"
         }
-      ]
+      ],
+      "genres": [
+        "crime"
+      ],
+      "releaseYear": 2026
     },
     {
       "id": "144",
@@ -356,7 +389,11 @@
           "value": "TV-14",
           "source": "USA_PR"
         }
-      ]
+      ],
+      "genres": [
+        "crime"
+      ],
+      "releaseYear": 2025
     },
     {
       "id": "213405",
@@ -486,7 +523,8 @@
         "seasonNumber": 1,
         "episodeNumber": 1
       },
-      "releaseDate": "2025-12-13"
+      "releaseDate": "2025-12-13",
+      "genres": []
     },
     {
       "id": "213672",
