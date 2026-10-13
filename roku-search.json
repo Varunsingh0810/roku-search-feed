@@ -429,13 +429,13 @@
           ]
         }
       ],
-      "releaseDate": "2026-06-05",
       "advisoryRatings": [
         {
           "value": "TV-14",
           "source": "USA_PR"
         }
-      ]
+      ],
+      "releaseYear": 2026
     },
     {
       "id": "213405",
