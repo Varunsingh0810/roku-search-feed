@@ -399,6 +399,45 @@
       "releaseYear": 2025
     },
     {
+      "id": "175",
+      "type": "series",
+      "titles": [
+        {
+          "value": "Accomplice to Murder with Vinnie Politan",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Looks beyond the usual suspects to tell gripping stories of everyday people caught up in deception and manipulation as they become accomplices to murder.",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "genres": [
+        "crime"
+      ],
+      "images": [
+        {
+          "url": "https://lawcrime-vod.multitvsolution.com/multitv/source/5013_6a2325ae8af0f_1920x1080.png",
+          "type": "main",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "releaseDate": "2026-06-05",
+      "advisoryRatings": [
+        {
+          "value": "TV-14",
+          "source": "USA_PR"
+        }
+      ]
+    },
+    {
       "id": "213405",
       "type": "episode",
       "titles": [
@@ -796,7 +835,7 @@
       ],
       "shortDescriptions": [
         {
-          "value": "Texas police suspected a serial killer was on the loose when bodies of four women were foundÃ‚Â dumped by the side of Highway 101.",
+          "value": "Texas police suspected a serial killer was on the loose when bodies of four women were foundÃ‚Â dumped by the side of Highway 101.",
           "languages": [
             "en"
           ]
@@ -1036,86 +1075,8 @@
       "releaseDate": "2025-12-12"
     },
     {
-      "advisoryRatings": [
-        {
-          "value": "TV-14",
-          "source": "USA_PR"
-        }
-      ],
-      "id": "175",
-      "titles": [
-        {
-          "value": "Accomplice to Murder with Vinnie Politan",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "type": "series",
-      "releaseDate": "2026-06-05",
-      "shortDescriptions": [
-        {
-          "value": "Looks beyond the usual suspects to tell gripping stories of everyday people caught up in deception and manipulation as they become accomplices to murder.",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "images": [
-        {
-          "url": "https://lawcrime-vod.multitvsolution.com/multitv/source/5013_6a2325ae8af0f_1920x1080.png",
-          "type": "main",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "genres": [
-        "crime"
-      ]
-    },
-    {
       "id": "225673",
       "type": "episode",
-      "releaseDate": "2026-06-05",
-      "longDescriptions": [
-        {
-          "value": "Richard Kananen Sr. abused his wife and three children so badly that no one bothered to report him missing when he disappeared. But when his wife Marilyn vanished fifteen years later, it became clear that the evil in their father had been passed down to at least one of the Kananen children.",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "content": {
-        "playOptions": [
-          {
-            "license": "subscription",
-            "playId": "225673",
-            "quality": "hd",
-            "availabilityStartTimeStamp": 0,
-            "availabilityInfo": {
-              "country": [
-                "us"
-              ]
-            }
-          }
-        ]
-      },
-      "advisoryRatings": [
-        {
-          "value": "TV-14",
-          "source": "USA_PR"
-        }
-      ],
-      "images": [
-        {
-          "url": "https://lawcrime-vod.multitvsolution.com/multitv/source/6a96f288435a7_1920x1080.jpg",
-          "type": "main",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
       "titles": [
         {
           "value": "FL v. Kananen",
@@ -1132,14 +1093,53 @@
           ]
         }
       ],
+      "longDescriptions": [
+        {
+          "value": "Richard Kananen Sr. abused his wife and three children so badly that no one bothered to report him missing when he disappeared. But when his wife Marilyn vanished fifteen years later, it became clear that the evil in their father had been passed down to at least one of the Kananen children.",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
       "genres": [
         "crime"
       ],
+      "images": [
+        {
+          "url": "https://lawcrime-vod.multitvsolution.com/multitv/source/6a96f288435a7_1920x1080.jpg",
+          "type": "main",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "releaseDate": "2026-06-05",
+      "advisoryRatings": [
+        {
+          "value": "TV-14",
+          "source": "USA_PR"
+        }
+      ],
+      "content": {
+        "playOptions": [
+          {
+            "playId": "225673",
+            "license": "subscription",
+            "quality": "hd",
+            "availabilityInfo": {
+              "country": [
+                "us"
+              ]
+            },
+            "availabilityStartTimeStamp": 0
+          }
+        ]
+      },
       "durationInSeconds": 2558,
       "episodeInfo": {
-        "episodeNumber": 1,
         "seriesId": "175",
-        "seasonNumber": 1
+        "seasonNumber": 1,
+        "episodeNumber": 1
       }
     }
   ]
