@@ -138,7 +138,7 @@
       ],
       "shortDescriptions": [
         {
-          "value": "From unexpected admissions of murder to unsettling rationale on the witness stand, criminal courtrooms in Florida, South Carolina, New York, and California have witnessed testimonies that completel...",
+          "value": "From unexpected admissions of murder to unsettling rationale on the witness stand, criminal courtrooms in Florida, South Carolina, New York, and California have witnessed testimonies that completely…",
           "languages": [
             "en"
           ]
@@ -240,7 +240,7 @@
       "genres": [
         "law"
       ],
-      "releaseYear": 2024
+      "releaseYear": 2025
     },
     {
       "id": "142",
@@ -333,7 +333,7 @@
       ],
       "shortDescriptions": [
         {
-          "value": "Christa Pike was set for execution when the lethal injections failed to end her life. Now Vinnie Politan investigates what happened inside the execution chamber and the brutal crime that landed Pik...",
+          "value": "Christa Pike was set for execution when the lethal injections failed to end her life. Now Vinnie Politan investigates what happened inside the execution chamber and the brutal crime that landed Pike…",
           "languages": [
             "en"
           ]
@@ -411,14 +411,19 @@
       ],
       "shortDescriptions": [
         {
-          "value": "Looks beyond the usual suspects to tell gripping stories of everyday people caught up in deception and manipulation as they become accomplices to murder.",
+          "value": "Accomplice to Murder with Vinnie Politan looks beyond the usual suspects to tell the gripping stories of everyday people caught up in a world of deception and manipulation as they become…",
           "languages": [
             "en"
           ]
         }
       ],
-      "genres": [
-        "crime"
+      "longDescriptions": [
+        {
+          "value": "Accomplice to Murder with Vinnie Politan looks beyond the usual suspects to tell the gripping stories of everyday people caught up in a world of deception and manipulation as they become accomplices to murder.",
+          "languages": [
+            "en"
+          ]
+        }
       ],
       "images": [
         {
@@ -435,14 +440,17 @@
           "source": "USA_PR"
         }
       ],
+      "genres": [
+        "law"
+      ],
       "releaseYear": 2026
     },
     {
-      "id": "174",
+      "id": "165",
       "type": "series",
       "titles": [
         {
-          "value": "Interview With a Killer",
+          "value": "Motives and Malice with Brooke Makenna",
           "languages": [
             "en"
           ]
@@ -450,31 +458,203 @@
       ],
       "shortDescriptions": [
         {
-          "value": "Hosted by David Scott, the series offers a rare glimpse into the psychological and emotional factors driving heinous crimes, providing viewers with a chilling yet insightful look...",
+          "value": "Dive into the most chilling true crime tales on Motives and Malice with creator Brooke Makenna. By spotlighting those who are lost and the survivors who are left behind after unthinkable tragedies…",
           "languages": [
             "en"
           ]
         }
       ],
-      "genres": [
-        "crime"
+      "longDescriptions": [
+        {
+          "value": "Dive into the most chilling true crime tales on Motives and Malice with creator Brooke Makenna. By spotlighting those who are lost and the survivors who are left behind after unthinkable tragedies, Brooke breaks down cases with a unique perspective and passion for finding justice. The murdered, the missing, the unsolved—Brooke is ready to share the stories of those who can’t tell them themselves.",
+          "languages": [
+            "en"
+          ]
+        }
       ],
       "images": [
         {
-          "url": "https://lawcrime-vod.multitvsolution.com/multitv/source/5013_6a21db63b1c7d_1920x1080.jpg",
+          "url": "https://lawcrime-vod.multitvsolution.com/multitv/source/5013_69aefa52c668d_1920x1080.jpg",
           "type": "main",
           "languages": [
             "en"
           ]
         }
       ],
-      "releaseDate": "2026-06-08",
       "advisoryRatings": [
         {
           "value": "TV-14",
           "source": "USA_PR"
         }
-      ]
+      ],
+      "genres": [
+        "law"
+      ],
+      "releaseYear": 2026
+    },
+    {
+      "id": "138",
+      "type": "series",
+      "titles": [
+        {
+          "value": "Prime Crime",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "A week before Christmas 2019, Aisha Levy and her boyfriend Spencer open their Jacksonville apartment to a friend in need - Markas Fishburne, a man Spencer had trusted for years. Within days, Aisha…",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "longDescriptions": [
+        {
+          "value": "A week before Christmas 2019, Aisha Levy and her boyfriend Spencer open their Jacksonville apartment to a friend in need - Markas Fishburne, a man Spencer had trusted for years. Within days, Aisha is gone, a threatening note is left behind, and investigators uncover a recording on Fishburne's phone that reveals exactly what happened inside that apartment.",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "url": "https://lawcrime-vod.multitvsolution.com/multitv/source/5013_6a020f33becdb_1920x1080.jpg",
+          "type": "main",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "value": "TV-14",
+          "source": "USA_PR"
+        }
+      ],
+      "genres": [
+        "law"
+      ],
+      "releaseYear": 2026
+    },
+    {
+      "id": "145",
+      "type": "series",
+      "titles": [
+        {
+          "value": "Jail",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Jail gives viewers a front row seat as recently arrested suspects face entry into the criminal justice system.",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "url": "https://lawcrime-vod.multitvsolution.com/multitv/source/5013_695ca0592e1ec_1920x1080.jpg",
+          "type": "main",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "value": "TV-14",
+          "source": "USA_PR"
+        }
+      ],
+      "genres": [
+        "law"
+      ],
+      "releaseYear": 2025
+    },
+    {
+      "id": "143",
+      "type": "series",
+      "titles": [
+        {
+          "value": "Cult Justice",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Cult Justice explores the magnetic power of criminal cult leaders—and the dramatic investigations that finally brought them to justice.",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "url": "https://lawcrime-vod.multitvsolution.com/multitv/source/5013_695c9f4ba5b30_1920x1080.jpg",
+          "type": "main",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "value": "TV-14",
+          "source": "USA_PR"
+        }
+      ],
+      "genres": [
+        "law"
+      ],
+      "releaseYear": 2025
+    },
+    {
+      "id": "171",
+      "type": "series",
+      "titles": [
+        {
+          "value": "First on Scene",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "With access to an incredible video catalog, this gripping series examines heroic acts, uplifting moments, bizarre incidents, life-altering events, and heartbreaking scenes captured on camera.",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "url": "https://lawcrime-vod.multitvsolution.com/multitv/source/5013_69c2bb059f7a3_1920x1080.jpg",
+          "type": "main",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "value": "TV-14",
+          "source": "USA_PR"
+        }
+      ],
+      "genres": [
+        "law"
+      ],
+      "releaseYear": 2026
     },
     {
       "id": "213405",
@@ -539,7 +719,10 @@
         "seasonNumber": 1,
         "episodeNumber": 1
       },
-      "releaseDate": "2026-09-10"
+      "releaseDate": "2026-09-10",
+      "genres": [
+        "law"
+      ]
     },
     {
       "id": "213592",
@@ -672,7 +855,10 @@
         "seasonNumber": 1,
         "episodeNumber": 1
       },
-      "releaseDate": "2025-12-14"
+      "releaseDate": "2025-12-14",
+      "genres": [
+        "law"
+      ]
     },
     {
       "id": "230576",
@@ -729,7 +915,10 @@
         "seasonNumber": 202609,
         "episodeNumber": 35
       },
-      "releaseDate": "2026-09-30"
+      "releaseDate": "2026-09-30",
+      "genres": [
+        "law"
+      ]
     },
     {
       "id": "220289",
@@ -794,7 +983,10 @@
         "seasonNumber": 1,
         "episodeNumber": 1
       },
-      "releaseDate": "2026-03-16"
+      "releaseDate": "2026-03-16",
+      "genres": [
+        "law"
+      ]
     },
     {
       "id": "213572",
@@ -859,7 +1051,10 @@
         "seasonNumber": 1,
         "episodeNumber": 1
       },
-      "releaseDate": "2025-12-12"
+      "releaseDate": "2025-12-12",
+      "genres": [
+        "law"
+      ]
     },
     {
       "id": "213459",
@@ -874,7 +1069,7 @@
       ],
       "shortDescriptions": [
         {
-          "value": "Texas police suspected a serial killer was on the loose when bodies of four women were foundÃ‚Â dumped by the side of Highway 101.",
+          "value": "Texas police suspected a serial killer was on the loose when bodies of four women were found dumped by the side of Highway 101.",
           "languages": [
             "en"
           ]
@@ -924,7 +1119,10 @@
         "seasonNumber": 1,
         "episodeNumber": 1
       },
-      "releaseDate": "2026-09-24"
+      "releaseDate": "2026-09-24",
+      "genres": [
+        "law"
+      ]
     },
     {
       "id": "213562",
@@ -989,7 +1187,10 @@
         "seasonNumber": 1,
         "episodeNumber": 1
       },
-      "releaseDate": "2025-12-12"
+      "releaseDate": "2025-12-12",
+      "genres": [
+        "law"
+      ]
     },
     {
       "id": "230698",
@@ -1004,7 +1205,7 @@
       ],
       "shortDescriptions": [
         {
-          "value": "Christa Pike was set for execution when the lethal injections failed to end her life. Now Vinnie Politan investigates what happened inside the execution chamber and the brutal crime that landed Pik...",
+          "value": "Christa Pike was set for execution when the lethal injections failed to end her life. Now Vinnie Politan investigates what happened inside the execution chamber and the brutal crime that landed Pike…",
           "languages": [
             "en"
           ]
@@ -1046,7 +1247,10 @@
         "seasonNumber": 202610,
         "episodeNumber": 3
       },
-      "releaseDate": "2026-10-05"
+      "releaseDate": "2026-10-05",
+      "genres": [
+        "law"
+      ]
     },
     {
       "id": "213474",
@@ -1111,7 +1315,10 @@
         "seasonNumber": 1,
         "episodeNumber": 1
       },
-      "releaseDate": "2025-12-12"
+      "releaseDate": "2025-12-12",
+      "genres": [
+        "law"
+      ]
     },
     {
       "id": "225673",
@@ -1126,7 +1333,7 @@
       ],
       "shortDescriptions": [
         {
-          "value": "Richard Kananen Sr.'s abuse was so severe his family didn't report him missing — until his wife vanished fifteen years later, revealing a dark family legacy.",
+          "value": "Richard Kananen Sr. abused his wife and three children so badly that no one bothered to report him missing when he disappeared. But when his wife Marilyn vanished fifteen years later, it became…",
           "languages": [
             "en"
           ]
@@ -1140,9 +1347,6 @@
           ]
         }
       ],
-      "genres": [
-        "crime"
-      ],
       "images": [
         {
           "url": "https://lawcrime-vod.multitvsolution.com/multitv/source/6a96f288435a7_1920x1080.jpg",
@@ -1152,7 +1356,6 @@
           ]
         }
       ],
-      "releaseDate": "2026-06-05",
       "advisoryRatings": [
         {
           "value": "TV-14",
@@ -1179,14 +1382,18 @@
         "seriesId": "175",
         "seasonNumber": 1,
         "episodeNumber": 1
-      }
+      },
+      "releaseDate": "2026-06-05",
+      "genres": [
+        "law"
+      ]
     },
     {
-      "id": "225703",
+      "id": "220101",
       "type": "episode",
       "titles": [
         {
-          "value": "A Double Life",
+          "value": "Children Survive",
           "languages": [
             "en"
           ]
@@ -1194,7 +1401,7 @@
       ],
       "shortDescriptions": [
         {
-          "value": "A gruesome video on a stolen SD card exposes Brian Steven Smith's secret double life. David Scott confronts this soft-spoken husband - and serial killer - about his nighttime hunts...",
+          "value": "Four children survived for 40 days alone in the jungle after their plane crashed.",
           "languages": [
             "en"
           ]
@@ -1202,25 +1409,21 @@
       ],
       "longDescriptions": [
         {
-          "value": "A gruesome video on a stolen SD card exposes Brian Steven Smith's secret double life. David Scott confronts this soft-spoken husband - and serial killer - about his nighttime hunts for vulnerable Alaskan women.",
+          "value": "Dive into the most chilling true crime tales on Motives and Malice with creator Brooke Makenna. By spotlighting those who are lost and the survivors who are left behind after unthinkable tragedies, Brooke breaks down cases with a unique perspective and passion for finding justice. The murdered, the missing, the unsolved—Brooke is ready to share the stories of those who can’t tell them themselves.",
           "languages": [
             "en"
           ]
         }
       ],
-      "genres": [
-        "crime"
-      ],
       "images": [
         {
-          "url": "https://lawcrime-vod.multitvsolution.com/multitv/source/6a26f8581ffac_1920x1080.jpg",
+          "url": "https://lawcrime-vod.multitvsolution.com/multitv/source/69b07b6325974_1920x1080.jpg",
           "type": "main",
           "languages": [
             "en"
           ]
         }
       ],
-      "releaseDate": "2026-06-08",
       "advisoryRatings": [
         {
           "value": "TV-14",
@@ -1230,7 +1433,7 @@
       "content": {
         "playOptions": [
           {
-            "playId": "225703",
+            "playId": "220101",
             "license": "subscription",
             "quality": "hd",
             "availabilityInfo": {
@@ -1242,12 +1445,288 @@
           }
         ]
       },
-      "durationInSeconds": 2645,
+      "durationInSeconds": 1500,
       "episodeInfo": {
-        "seriesId": "174",
+        "seriesId": "165",
+        "seasonNumber": 5,
+        "episodeNumber": 1
+      },
+      "releaseDate": "2026-03-10",
+      "genres": [
+        "law"
+      ]
+    },
+    {
+      "id": "231208",
+      "type": "episode",
+      "titles": [
+        {
+          "value": "An Unwelcome Guest",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "A week before Christmas 2019, Aisha Levy and her boyfriend Spencer open their Jacksonville apartment to a friend in need - Markas Fishburne, a man Spencer had trusted for years. Within days, Aisha…",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "longDescriptions": [
+        {
+          "value": "A week before Christmas 2019, Aisha Levy and her boyfriend Spencer open their Jacksonville apartment to a friend in need - Markas Fishburne, a man Spencer had trusted for years. Within days, Aisha is gone, a threatening note is left behind, and investigators uncover a recording on Fishburne's phone that reveals exactly what happened inside that apartment.",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "url": "https://lawcrime-vod.multitvsolution.com/multitv/source/6ac92ba2da46d_1920x1080.jpg",
+          "type": "main",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "value": "TV-14",
+          "source": "USA_PR"
+        }
+      ],
+      "content": {
+        "playOptions": [
+          {
+            "playId": "231208",
+            "license": "subscription",
+            "quality": "hd",
+            "availabilityInfo": {
+              "country": [
+                "us"
+              ]
+            },
+            "availabilityStartTimeStamp": 0
+          }
+        ]
+      },
+      "durationInSeconds": 2643,
+      "episodeInfo": {
+        "seriesId": "138",
+        "seasonNumber": 10,
+        "episodeNumber": 6
+      },
+      "releaseDate": "2026-10-09",
+      "genres": [
+        "law"
+      ]
+    },
+    {
+      "id": "213525",
+      "type": "episode",
+      "titles": [
+        {
+          "value": "Caught On Camera",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Two men are found fighting on security cameras. Meanwhile, an impromptu tattoo jail parlor is discovered and shut down. Later, a Russian man and his mysterious friend are excited to be in a U.S…",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "longDescriptions": [
+        {
+          "value": "Two men are found fighting on security cameras. Meanwhile, an impromptu tattoo jail parlor is discovered and shut down. Later, a Russian man and his mysterious friend are excited to be in a U.S. jail.",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "url": "https://lawcrime-vod.multitvsolution.com/multitv/source/693fc9370307b_1920x1080.jpg",
+          "type": "main",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "value": "TV-14",
+          "source": "USA_PR"
+        }
+      ],
+      "content": {
+        "playOptions": [
+          {
+            "playId": "213525",
+            "license": "subscription",
+            "quality": "hd",
+            "availabilityInfo": {
+              "country": [
+                "us"
+              ]
+            },
+            "availabilityStartTimeStamp": 0
+          }
+        ]
+      },
+      "durationInSeconds": 1229,
+      "episodeInfo": {
+        "seriesId": "145",
         "seasonNumber": 1,
         "episodeNumber": 1
-      }
+      },
+      "releaseDate": "2025-12-12",
+      "genres": [
+        "law"
+      ]
+    },
+    {
+      "id": "213466",
+      "type": "episode",
+      "titles": [
+        {
+          "value": "The Hollywood Prophet",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Bernie Hoffman's dream was to strike it rich as a Hollywood star when God called on him to preach the gospel; changing his name to Tony Alamo, he started a popular Hollywood ministry, TV and radio…",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "longDescriptions": [
+        {
+          "value": "Bernie Hoffman's dream was to strike it rich as a Hollywood star when God called on him to preach the gospel; changing his name to Tony Alamo, he started a popular Hollywood ministry, TV and radio programmes together with his wife Susan.",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "url": "https://lawcrime-vod.multitvsolution.com/multitv/source/693fa2a5dde44_1920x1080.jpg",
+          "type": "main",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "value": "TV-14",
+          "source": "USA_PR"
+        }
+      ],
+      "content": {
+        "playOptions": [
+          {
+            "playId": "213466",
+            "license": "subscription",
+            "quality": "hd",
+            "availabilityInfo": {
+              "country": [
+                "us"
+              ]
+            },
+            "availabilityStartTimeStamp": 0
+          }
+        ]
+      },
+      "durationInSeconds": 2580,
+      "episodeInfo": {
+        "seriesId": "143",
+        "seasonNumber": 1,
+        "episodeNumber": 1
+      },
+      "releaseDate": "2025-12-12",
+      "genres": [
+        "law"
+      ]
+    },
+    {
+      "id": "220476",
+      "type": "episode",
+      "titles": [
+        {
+          "value": "Rage on the Run",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Police pursue an enraged offender who leads them on an inexplicable chase.",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "longDescriptions": [
+        {
+          "value": "With access to an incredible video catalog, this gripping series examines heroic acts, uplifting moments, bizarre incidents, life-altering events, and heartbreaking scenes captured on camera.",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "url": "https://lawcrime-vod.multitvsolution.com/multitv/source/69c2bad30ef54_1920x1080.jpg",
+          "type": "main",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "value": "TV-14",
+          "source": "USA_PR"
+        }
+      ],
+      "content": {
+        "playOptions": [
+          {
+            "playId": "220476",
+            "license": "subscription",
+            "quality": "hd",
+            "availabilityInfo": {
+              "country": [
+                "us"
+              ]
+            },
+            "availabilityStartTimeStamp": 0
+          }
+        ]
+      },
+      "durationInSeconds": 1353,
+      "episodeInfo": {
+        "seriesId": "171",
+        "seasonNumber": 1,
+        "episodeNumber": 1
+      },
+      "releaseDate": "2026-03-24",
+      "genres": [
+        "law"
+      ]
     }
   ]
 }
