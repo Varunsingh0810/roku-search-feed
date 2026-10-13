@@ -399,6 +399,100 @@
       "releaseYear": 2025
     },
     {
+      "id": "175",
+      "type": "series",
+      "titles": [
+        {
+          "value": "Accomplice to Murder with Vinnie Politan",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Accomplice to Murder with Vinnie Politan looks beyond the usual suspects to tell the gripping stories of everyday people caught up in a world of deception and manipulation as they become…",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "longDescriptions": [
+        {
+          "value": "Accomplice to Murder with Vinnie Politan looks beyond the usual suspects to tell the gripping stories of everyday people caught up in a world of deception and manipulation as they become accomplices to murder.",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "url": "https://lawcrime-vod.multitvsolution.com/multitv/source/5013_6a2325ae8af0f_1920x1080.png",
+          "type": "main",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "value": "TV-14",
+          "source": "USA_PR"
+        }
+      ],
+      "genres": [
+        "law"
+      ],
+      "releaseYear": 2026
+    },
+    {
+      "id": "165",
+      "type": "series",
+      "titles": [
+        {
+          "value": "Motives and Malice with Brooke Makenna",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Dive into the most chilling true crime tales on Motives and Malice with creator Brooke Makenna. By spotlighting those who are lost and the survivors who are left behind after unthinkable tragedies…",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "longDescriptions": [
+        {
+          "value": "Dive into the most chilling true crime tales on Motives and Malice with creator Brooke Makenna. By spotlighting those who are lost and the survivors who are left behind after unthinkable tragedies, Brooke breaks down cases with a unique perspective and passion for finding justice. The murdered, the missing, the unsolved—Brooke is ready to share the stories of those who can’t tell them themselves.",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "url": "https://lawcrime-vod.multitvsolution.com/multitv/source/5013_69aefa52c668d_1920x1080.jpg",
+          "type": "main",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "value": "TV-14",
+          "source": "USA_PR"
+        }
+      ],
+      "genres": [
+        "law"
+      ],
+      "releaseYear": 2026
+    },
+    {
       "id": "213405",
       "type": "episode",
       "titles": [
@@ -461,7 +555,10 @@
         "seasonNumber": 1,
         "episodeNumber": 1
       },
-      "releaseDate": "2026-09-10"
+      "releaseDate": "2026-09-10",
+      "genres": [
+        "law"
+      ]
     },
     {
       "id": "213592",
@@ -594,7 +691,10 @@
         "seasonNumber": 1,
         "episodeNumber": 1
       },
-      "releaseDate": "2025-12-14"
+      "releaseDate": "2025-12-14",
+      "genres": [
+        "law"
+      ]
     },
     {
       "id": "230576",
@@ -651,7 +751,10 @@
         "seasonNumber": 202609,
         "episodeNumber": 35
       },
-      "releaseDate": "2026-09-30"
+      "releaseDate": "2026-09-30",
+      "genres": [
+        "law"
+      ]
     },
     {
       "id": "220289",
@@ -716,7 +819,10 @@
         "seasonNumber": 1,
         "episodeNumber": 1
       },
-      "releaseDate": "2026-03-16"
+      "releaseDate": "2026-03-16",
+      "genres": [
+        "law"
+      ]
     },
     {
       "id": "213572",
@@ -781,7 +887,10 @@
         "seasonNumber": 1,
         "episodeNumber": 1
       },
-      "releaseDate": "2025-12-12"
+      "releaseDate": "2025-12-12",
+      "genres": [
+        "law"
+      ]
     },
     {
       "id": "213459",
@@ -796,7 +905,7 @@
       ],
       "shortDescriptions": [
         {
-          "value": "Texas police suspected a serial killer was on the loose when bodies of four women were foundÂ dumped by the side of Highway 101.",
+          "value": "Texas police suspected a serial killer was on the loose when bodies of four women were found dumped by the side of Highway 101.",
           "languages": [
             "en"
           ]
@@ -846,7 +955,10 @@
         "seasonNumber": 1,
         "episodeNumber": 1
       },
-      "releaseDate": "2026-09-24"
+      "releaseDate": "2026-09-24",
+      "genres": [
+        "law"
+      ]
     },
     {
       "id": "213562",
@@ -911,7 +1023,10 @@
         "seasonNumber": 1,
         "episodeNumber": 1
       },
-      "releaseDate": "2025-12-12"
+      "releaseDate": "2025-12-12",
+      "genres": [
+        "law"
+      ]
     },
     {
       "id": "230698",
@@ -968,7 +1083,10 @@
         "seasonNumber": 202610,
         "episodeNumber": 3
       },
-      "releaseDate": "2026-10-05"
+      "releaseDate": "2026-10-05",
+      "genres": [
+        "law"
+      ]
     },
     {
       "id": "213474",
@@ -1033,7 +1151,146 @@
         "seasonNumber": 1,
         "episodeNumber": 1
       },
-      "releaseDate": "2025-12-12"
+      "releaseDate": "2025-12-12",
+      "genres": [
+        "law"
+      ]
+    },
+    {
+      "id": "225673",
+      "type": "episode",
+      "titles": [
+        {
+          "value": "FL v. Kananen",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Richard Kananen Sr. abused his wife and three children so badly that no one bothered to report him missing when he disappeared. But when his wife Marilyn vanished fifteen years later, it became…",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "longDescriptions": [
+        {
+          "value": "Richard Kananen Sr. abused his wife and three children so badly that no one bothered to report him missing when he disappeared. But when his wife Marilyn vanished fifteen years later, it became clear that the evil in their father had been passed down to at least one of the Kananen children.",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "url": "https://lawcrime-vod.multitvsolution.com/multitv/source/6a96f288435a7_1920x1080.jpg",
+          "type": "main",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "value": "TV-14",
+          "source": "USA_PR"
+        }
+      ],
+      "content": {
+        "playOptions": [
+          {
+            "playId": "225673",
+            "license": "subscription",
+            "quality": "hd",
+            "availabilityInfo": {
+              "country": [
+                "us"
+              ]
+            },
+            "availabilityStartTimeStamp": 0
+          }
+        ]
+      },
+      "durationInSeconds": 2558,
+      "episodeInfo": {
+        "seriesId": "175",
+        "seasonNumber": 1,
+        "episodeNumber": 1
+      },
+      "releaseDate": "2026-06-05",
+      "genres": [
+        "law"
+      ]
+    },
+    {
+      "id": "220101",
+      "type": "episode",
+      "titles": [
+        {
+          "value": "Children Survive",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Four children survived for 40 days alone in the jungle after their plane crashed.",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "longDescriptions": [
+        {
+          "value": "Dive into the most chilling true crime tales on Motives and Malice with creator Brooke Makenna. By spotlighting those who are lost and the survivors who are left behind after unthinkable tragedies, Brooke breaks down cases with a unique perspective and passion for finding justice. The murdered, the missing, the unsolved—Brooke is ready to share the stories of those who can’t tell them themselves.",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "url": "https://lawcrime-vod.multitvsolution.com/multitv/source/69b07b6325974_1920x1080.jpg",
+          "type": "main",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "value": "TV-14",
+          "source": "USA_PR"
+        }
+      ],
+      "content": {
+        "playOptions": [
+          {
+            "playId": "220101",
+            "license": "subscription",
+            "quality": "hd",
+            "availabilityInfo": {
+              "country": [
+                "us"
+              ]
+            },
+            "availabilityStartTimeStamp": 0
+          }
+        ]
+      },
+      "durationInSeconds": 1500,
+      "episodeInfo": {
+        "seriesId": "165",
+        "seasonNumber": 5,
+        "episodeNumber": 1
+      },
+      "releaseDate": "2026-03-10",
+      "genres": [
+        "law"
+      ]
     }
   ]
 }
