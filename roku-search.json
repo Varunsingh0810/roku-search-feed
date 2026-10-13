@@ -438,6 +438,45 @@
       "releaseYear": 2026
     },
     {
+      "id": "174",
+      "type": "series",
+      "titles": [
+        {
+          "value": "Interview With a Killer",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Hosted by David Scott, the series offers a rare glimpse into the psychological and emotional factors driving heinous crimes, providing viewers with a chilling yet insightful look...",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "genres": [
+        "crime"
+      ],
+      "images": [
+        {
+          "url": "https://lawcrime-vod.multitvsolution.com/multitv/source/5013_6a21db63b1c7d_1920x1080.jpg",
+          "type": "main",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "releaseDate": "2026-06-08",
+      "advisoryRatings": [
+        {
+          "value": "TV-14",
+          "source": "USA_PR"
+        }
+      ]
+    },
+    {
       "id": "213405",
       "type": "episode",
       "titles": [
@@ -1138,6 +1177,74 @@
       "durationInSeconds": 2558,
       "episodeInfo": {
         "seriesId": "175",
+        "seasonNumber": 1,
+        "episodeNumber": 1
+      }
+    },
+    {
+      "id": "225703",
+      "type": "episode",
+      "titles": [
+        {
+          "value": "A Double Life",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "A gruesome video on a stolen SD card exposes Brian Steven Smith's secret double life. David Scott confronts this soft-spoken husband - and serial killer - about his nighttime hunts...",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "longDescriptions": [
+        {
+          "value": "A gruesome video on a stolen SD card exposes Brian Steven Smith's secret double life. David Scott confronts this soft-spoken husband - and serial killer - about his nighttime hunts for vulnerable Alaskan women.",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "genres": [
+        "crime"
+      ],
+      "images": [
+        {
+          "url": "https://lawcrime-vod.multitvsolution.com/multitv/source/6a26f8581ffac_1920x1080.jpg",
+          "type": "main",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "releaseDate": "2026-06-08",
+      "advisoryRatings": [
+        {
+          "value": "TV-14",
+          "source": "USA_PR"
+        }
+      ],
+      "content": {
+        "playOptions": [
+          {
+            "playId": "225703",
+            "license": "subscription",
+            "quality": "hd",
+            "availabilityInfo": {
+              "country": [
+                "us"
+              ]
+            },
+            "availabilityStartTimeStamp": 0
+          }
+        ]
+      },
+      "durationInSeconds": 2645,
+      "episodeInfo": {
+        "seriesId": "174",
         "seasonNumber": 1,
         "episodeNumber": 1
       }
