@@ -657,6 +657,53 @@
       "releaseYear": 2026
     },
     {
+      "id": "174",
+      "type": "series",
+      "titles": [
+        {
+          "value": "Interview With a Killer",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Hosted by David Scott, The series offers a rare glimpse into the psychological and emotional factors driving heinous crimes, providing viewers with a chilling yet insightful look at some of the…",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "longDescriptions": [
+        {
+          "value": "Hosted by David Scott, The series offers a rare glimpse into the psychological and emotional factors driving heinous crimes, providing viewers with a chilling yet insightful look at some of the most dangerous criminals behind bars.",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "url": "https://lawcrime-vod.multitvsolution.com/multitv/source/5013_6a21db63b1c7d_1920x1080.jpg",
+          "type": "main",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "value": "TV-14",
+          "source": "USA_PR"
+        }
+      ],
+      "genres": [
+        "law"
+      ],
+      "releaseYear": 2026
+    },
+    {
       "id": "213405",
       "type": "episode",
       "titles": [
@@ -1724,6 +1771,74 @@
         "episodeNumber": 1
       },
       "releaseDate": "2026-03-24",
+      "genres": [
+        "law"
+      ]
+    },
+    {
+      "id": "225703",
+      "type": "episode",
+      "titles": [
+        {
+          "value": "A Double Life",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "A gruesome video on a stolen SD card exposes Brian Steven Smith's secret double life. David Scott confronts this soft-spoken husband - and serial killer - about his nighttime hunts for vulnerable…",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "longDescriptions": [
+        {
+          "value": "A gruesome video on a stolen SD card exposes Brian Steven Smith's secret double life. David Scott confronts this soft-spoken husband - and serial killer - about his nighttime hunts for vulnerable Alaskan women.",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "url": "https://lawcrime-vod.multitvsolution.com/multitv/source/6a26f8581ffac_1920x1080.jpg",
+          "type": "main",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "value": "TV-14",
+          "source": "USA_PR"
+        }
+      ],
+      "content": {
+        "playOptions": [
+          {
+            "playId": "225703",
+            "license": "subscription",
+            "quality": "hd",
+            "availabilityInfo": {
+              "country": [
+                "us"
+              ]
+            },
+            "availabilityStartTimeStamp": 0
+          }
+        ]
+      },
+      "durationInSeconds": 2645,
+      "episodeInfo": {
+        "seriesId": "174",
+        "seasonNumber": 1,
+        "episodeNumber": 1
+      },
+      "releaseDate": "2026-06-08",
       "genres": [
         "law"
       ]
