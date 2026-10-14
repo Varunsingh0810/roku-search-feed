@@ -704,6 +704,45 @@
       "releaseYear": 2026
     },
     {
+    "id": "182",
+    "type": "series",
+    "titles": [
+      {
+        "value": "Judgement With Ashleigh Banfield",
+        "languages": [
+          "en"
+        ]
+      }
+    ],
+    "shortDescriptions": [
+      {
+        "value": "A deep dive into the most provocative and talked about trials and cases of all-time.",
+        "languages": [
+          "en"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://lawcrime-vod.multitvsolution.com/multitv/source/5013_6a3bffda2d9cc_1920x1080.png",
+        "type": "main",
+        "languages": [
+          "en"
+        ]
+      }
+    ],
+    "advisoryRatings": [
+      {
+        "value": "TV-14",
+        "source": "USA_PR"
+      }
+    ],
+    "genres": [
+      "law"
+    ],
+    "releaseYear": 2026
+  },
+    {
       "id": "213405",
       "type": "episode",
       "titles": [
@@ -1842,6 +1881,74 @@
       "genres": [
         "law"
       ]
-    }
+    },
+    {
+    "id": "226444",
+    "type": "episode",
+    "titles": [
+      {
+        "value": "Judgment Of Casey Anthony With Ashleigh Banfield",
+        "languages": [
+          "en"
+        ]
+      }
+    ],
+    "shortDescriptions": [
+      {
+        "value": "The mystery surrounding the death of little Caylee Anthony gripped the nation. Was she the victim of her neglectful, party-girl mother Casey, or was a darker family secret to blame? The only thing…",
+        "languages": [
+          "en"
+        ]
+      }
+    ],
+    "longDescriptions": [
+      {
+        "value": "The mystery surrounding the death of little Caylee Anthony gripped the nation. Was she the victim of her neglectful, party-girl mother Casey, or was a darker family secret to blame? The only thing more shocking than the testimony was the verdict itself.",
+        "languages": [
+          "en"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://lawcrime-vod.multitvsolution.com/multitv/source/6a3b070cd2db7_1920x1080.jpg",
+        "type": "main",
+        "languages": [
+          "en"
+        ]
+      }
+    ],
+    "advisoryRatings": [
+      {
+        "value": "TV-14",
+        "source": "USA_PR"
+      }
+    ],
+    "content": {
+      "playOptions": [
+        {
+          "playId": "226444",
+          "license": "subscription",
+          "quality": "hd",
+          "availabilityInfo": {
+            "country": [
+              "us"
+            ]
+          },
+          "availabilityStartTimeStamp": 0
+        }
+      ]
+    },
+    "durationInSeconds": 2643,
+    "episodeInfo": {
+      "seriesId": "182",
+      "seasonNumber": 1,
+      "episodeNumber": 1
+    },
+    "releaseDate": "2026-06-23",
+    "genres": [
+      "law"
+    ]
+  }
   ]
 }
