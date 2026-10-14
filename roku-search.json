@@ -742,6 +742,45 @@
     ],
     "releaseYear": 2026
   },
+  {
+    "id": "159",
+    "type": "series",
+    "titles": [
+      {
+        "value": "Switched",
+        "languages": [
+          "en"
+        ]
+      }
+    ],
+    "shortDescriptions": [
+      {
+        "value": "Switched re-enacts real police encounters with civilians stepping into the shoes of law enforcement.",
+        "languages": [
+          "en"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://lawcrime-vod.multitvsolution.com/multitv/source/5013_69934a51367f4_1920x1080.jpg",
+        "type": "main",
+        "languages": [
+          "en"
+        ]
+      }
+    ],
+    "advisoryRatings": [
+      {
+        "value": "TV-14",
+        "source": "USA_PR"
+      }
+    ],
+    "genres": [
+      "law"
+    ],
+    "releaseYear": 2026
+  },
     {
       "id": "213405",
       "type": "episode",
@@ -1946,6 +1985,66 @@
       "episodeNumber": 1
     },
     "releaseDate": "2026-06-23",
+    "genres": [
+      "law"
+    ]
+  },
+  {
+    "id": "220034",
+    "type": "episode",
+    "titles": [
+      {
+        "value": "Traffic Stop, Domestic Disturbance, False Alarm",
+        "languages": [
+          "en"
+        ]
+      }
+    ],
+    "shortDescriptions": [
+      {
+        "value": "Role players simulate traffic stop gone wrong, a domestic disturbance, and how to respond to a 911 call that turns out to be a trap.",
+        "languages": [
+          "en"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://lawcrime-vod.multitvsolution.com/multitv/source/69ab3d70dc084_1920x1080.jpg",
+        "type": "main",
+        "languages": [
+          "en"
+        ]
+      }
+    ],
+    "advisoryRatings": [
+      {
+        "value": "TV-14",
+        "source": "USA_PR"
+      }
+    ],
+    "content": {
+      "playOptions": [
+        {
+          "playId": "220034",
+          "license": "subscription",
+          "quality": "hd",
+          "availabilityInfo": {
+            "country": [
+              "us"
+            ]
+          },
+          "availabilityStartTimeStamp": 0
+        }
+      ]
+    },
+    "durationInSeconds": 1354,
+    "episodeInfo": {
+      "seriesId": "159",
+      "seasonNumber": 1,
+      "episodeNumber": 1
+    },
+    "releaseDate": "2026-03-06",
     "genres": [
       "law"
     ]
